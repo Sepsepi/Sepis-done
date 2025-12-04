@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Output files (optional - remove this line to track scraped data)
+output/*.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local

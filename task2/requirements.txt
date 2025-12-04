@@ -1,0 +1,10 @@
+# Task 2: WNC Building Control Scraper
+# Node.js dependencies - install via: npm install
+
+# Runtime
+node >= 18.0.0
+
+# NPM Packages (see package.json)
+got ^14.4.5
+cheerio ^1.0.0
+tough-cookie ^5.1.0

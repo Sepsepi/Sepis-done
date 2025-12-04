@@ -1,0 +1,22 @@
+{
+  "name": "edinburgh-building-control-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes Edinburgh building control data using Playwright",
+  "type": "module",
+  "main": "src/scrapers/edinburgh-scraper.js",
+  "scripts": {
+    "scrape": "node src/scrapers/edinburgh-scraper.js",
+    "scrape:verbose": "node src/scrapers/edinburgh-scraper.js --verbose"
+  },
+  "keywords": [
+    "scraper",
+    "building-control",
+    "playwright",
+    "edinburgh"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.57.0"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "building-control-scrapers",
+  "version": "1.0.0",
+  "description": "Web scrapers for UK building control data using Playwright and Got",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "scrape:wnc": "node src/scrapers/wnc-scraper.js",
+    "scrape:edinburgh": "node src/scrapers/edinburgh-scraper.js",
+    "scrape:all": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "scraper",
+    "building-control",
+    "playwright",
+    "got"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "got": "^14.6.5",
+    "tough-cookie": "^6.0.0"
+  }
+}

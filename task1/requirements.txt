@@ -1,0 +1,12 @@
+# Task 1: Edinburgh Building Control Scraper
+# Node.js dependencies - install via: npm install
+
+# Runtime
+node >= 18.0.0
+
+# NPM Packages (see package.json)
+playwright ^1.57.0
+
+# System Requirements
+# - Chromium browser (installed via: npx playwright install chromium)
+# - UK IP/VPN required (site is geo-blocked)
