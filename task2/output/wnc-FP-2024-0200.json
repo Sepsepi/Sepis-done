@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "reference": "FP/2024/0200",
+    "scrapedAt": "2025-12-04T16:19:19.663Z",
+    "sourceUrl": "https://wnc.planning-register.co.uk/BuildingControl/Display/FP/2024/0200",
+    "pageTitle": "Search the Online Register",
+    "scraperVersion": "1.0.0",
+    "validation": {
+      "isValid": false,
+      "errors": [
+        "No main details extracted - page may not have loaded correctly"
+      ],
+      "warnings": []
+    }
+  },
+  "mainDetails": {},
+  "applicationTypeInfo": null,
+  "plots": null,
+  "siteHistory": null,
+  "documents": null,
+  "contactInfo": {
+    "email": "planning@westnorthants.gov.uk"
+  }
+}

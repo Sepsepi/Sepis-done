@@ -2,6 +2,8 @@
 
 Two scrapers for UK building control data.
 
+**Note**: Sample outputs included in each task's `output/` folder so you can see the results without running.
+
 ## Setup
 
 ```bash

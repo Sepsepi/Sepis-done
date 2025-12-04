@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "keyVal": "T1A5VZEWK0T00",
+    "scrapedAt": "2025-12-04T16:19:19.476Z",
+    "sourceUrl": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/scottishBuildingWarrantDetails.do?keyVal=T1A5VZEWK0T00&activeTab=summary",
+    "scraperVersion": "1.0.0"
+  },
+  "summary": null,
+  "details": null,
+  "dates": null,
+  "plots": null,
+  "certificates": {
+    "design": null,
+    "construction": null,
+    "energy": null,
+    "completion": null
+  },
+  "relatedItems": {
+    "properties": [],
+    "planningApplications": [
+      {
+        "reference": "eDevelopment Planning",
+        "url": "https://www.eplanning.scot/ePlanningClient/default.aspx"
+      }
+    ],
+    "buildingWarrants": []
+  },
+  "geometry": null
+}

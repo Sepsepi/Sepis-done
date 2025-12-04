@@ -1,8 +1,8 @@
 # Dependencies
 node_modules/
 
-# Output files (optional - remove this line to track scraped data)
-output/*.json
+# Output files (uncomment to ignore)
+# output/*.json
 
 # Logs
 *.log

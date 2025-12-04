@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "reference": "FP/2025/0159",
+    "scrapedAt": "2025-12-04T16:27:30.948Z",
+    "sourceUrl": "https://wnc.planning-register.co.uk/BuildingControl/Display/FP/2025/0159",
+    "pageTitle": "Building Control Application: FP/2025/0159",
+    "scraperVersion": "1.0.0",
+    "validation": {
+      "isValid": true,
+      "errors": [],
+      "warnings": []
+    }
+  },
+  "mainDetails": {
+    "referenceNumber": "FP/2025/0159",
+    "applicationType": "Full Plans",
+    "status": "Ongoing",
+    "parish": "Cogenhoe & Whiston Parish Council",
+    "siteAddress": "Land South of Station Road Cogenhoe",
+    "descriptionOfWorks": "New build development of 2 no 4 bed detached dwellings and associated garage and landscaping and external works.",
+    "receivedDate": "07/07/2025",
+    "validDate": "23/07/2025",
+    "decision": "Approval (Conditional)",
+    "decisionDate": "23/09/2025",
+    "commencementDate": "28/11/2025",
+    "completionDate": null
+  },
+  "applicationTypeInfo": {
+    "type": "Full Plans",
+    "description": "Full plans submission where approval and completion certificates may be available",
+    "certificatesAvailable": true
+  },
+  "plots": [
+    {
+      "plotNumber": "Plot 1",
+      "plotStatus": "Work Commenced",
+      "commencementDate": "28/11/2025"
+    },
+    {
+      "plotNumber": "Plot 2",
+      "plotStatus": "Work Pending"
+    }
+  ],
+  "siteHistory": [
+    {
+      "applicationNumber": "FP/2025/0159",
+      "receivedDate": "07/07/2025",
+      "validatedDate": "23/07/2025",
+      "applicationType": "Full Plans",
+      "location": "Land South of Station Road Cogenhoe",
+      "proposal": "New build development of 2 no 4 bed detached dwellings and associated garage and landscaping and external works."
+    }
+  ],
+  "documents": null,
+  "contactInfo": {
+    "email": "buildingcontrol@westnorthants.gov.uk"
+  }
+}

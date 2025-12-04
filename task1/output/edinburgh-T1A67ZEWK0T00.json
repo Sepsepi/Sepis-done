@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "keyVal": "T1A67ZEWK0T00",
+    "scrapedAt": "2025-12-04T16:27:29.058Z",
+    "sourceUrl": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/scottishBuildingWarrantDetails.do?keyVal=T1A67ZEWK0T00&activeTab=summary",
+    "scraperVersion": "1.0.0"
+  },
+  "summary": {
+    "descriptionOfWorks": "Attic conversion and dormer extension to create new bedroom and ensuite",
+    "siteAddress": "62 Rosebery Avenue Queensferry South Queensferry EH30 9JQ",
+    "applicationReferenceNumber": "25/02273/WARR",
+    "applicationValidDate": "Tue 16 Sep 2025",
+    "decisionDate": "Tue 02 Dec 2025",
+    "status": "Granted Warrant",
+    "applicationType": "Domestic Existing Building - Alteration",
+    "receivedDate": "Tue 16 Sep 2025",
+    "decision": "Granted Warrant"
+  },
+  "details": {
+    "applicationReferenceNumber": "25/02273/WARR",
+    "descriptionOfWorks": "Attic conversion and dormer extension to create new bedroom and ensuite",
+    "alternativeReference": "500761807-001",
+    "agentName": "Grant Allan Architecture",
+    "agentAddress": "FAO: Grant Allan 21 Bruce Road Crossgates KY4 8AZ",
+    "applicantsName": "Mr Jamie Wilson",
+    "valueOfWork": "£50,000.00",
+    "decisionIssued": "Granted Warrant",
+    "warrantExpiryDate": "02 Dec 2028",
+    "verifiersName": "The City Of Edinburgh Council",
+    "caseOfficer": "Euan Crombie",
+    "conditionscontinuingRequirements": "No Continuing Requirement",
+    "dischargesState": "Discharged"
+  },
+  "dates": {
+    "applicationReceived": "Tue 16 Sep 2025",
+    "applicationValidDate": "Tue 16 Sep 2025",
+    "decisionDate": "Tue 02 Dec 2025"
+  },
+  "plots": [
+    {
+      "plotStatus": "Received",
+      "allCertificatesReceived": "No"
+    }
+  ],
+  "certificates": {
+    "design": [
+      {
+        "designScheme": "Cert of Design (Building Structures)",
+        "designSection": "All Parts",
+        "workCertified": "all struct works",
+        "certifiersName": "Mark Hendry",
+        "certifiersRegistrationNo": "ser1-d-01503",
+        "certifyingBody": "CRA",
+        "certificateOfDesignNo": "443390",
+        "certificateDate": "26 Nov 2025",
+        "dateCertificateChecked": "02 Dec 2025"
+      }
+    ],
+    "construction": null,
+    "energy": null,
+    "completion": null
+  },
+  "relatedItems": {
+    "properties": [
+      {
+        "address": "62 Rosebery Avenue Queensferry South Queensferry EH30 9JQ",
+        "url": "https://citydev-portal.edinburgh.gov.uk/idoxpa-web/propertyDetails.do?previousCaseType=ScottishBuildingWarrant&keyVal=02L47E00DT000&previousCaseNumber=25%2F02273%2FWARR&activeTab=summary&previousKeyVal=T1A67ZEWK0T00"
+      }
+    ],
+    "planningApplications": [
+      {
+        "reference": "eDevelopment Planning",
+        "url": "https://www.eplanning.scot/ePlanningClient/default.aspx"
+      }
+    ],
+    "buildingWarrants": []
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -3.3906808411011022,
+          55.98566373195822
+        ],
+        [
+          -3.390685740303409,
+          55.98559484581057
+        ],
+        [
+          -3.3907945018317522,
+          55.98559721415089
+        ],
+        [
+          -3.390789763047849,
+          55.98566609849572
+        ],
+        [
+          -3.3907498185831177,
+          55.985665200896285
+        ],
+        [
+          -3.3906808411011022,
+          55.98566373195822
+        ]
+      ]
+    ],
+    "centroid": [
+      -3.390730250994722,
+      55.985641803878316
+    ],
+    "spatialReference": {
+      "wkid": 4326,
+      "latestWkid": 4326
+    },
+    "source": "ArcGIS FeatureServer/2"
+  }
+}
