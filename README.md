@@ -22,14 +22,6 @@ npm install
 | **Task 1** | Edinburgh Council | Playwright | Geometry extraction |
 | **Task 2** | West Northamptonshire | Got + Cheerio | - |
 
-## Run
-
-```bash
-# Task 1 (requires UK VPN)
-cd task1 && npm run scrape
-
-# Task 2
-cd task2 && npm run scrape:wnc
 ```
 
 See each task's README for details.
